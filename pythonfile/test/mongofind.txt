@@ -1,0 +1,23 @@
+cond ={
+
+}
+
+#
+_id:""
+
+time :{
+ "ctime": {"$gte": start, "$lt": end}
+}
+
+rmb:{
+"$exists":True/False
+}
+
+uid_lst = []
+uid{
+ "$in":uid_lst
+}
+
+{
+
+}

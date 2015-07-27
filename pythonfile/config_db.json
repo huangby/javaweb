@@ -1,0 +1,7 @@
+{
+  "host":"db.ali.ppweb.com.cn",
+  "port": 30000,
+  "dbname":"zhibo",
+  "user":"rsource",
+  "passwd":"rs@pw"
+}
